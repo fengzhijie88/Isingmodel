@@ -6,14 +6,6 @@ Created on Sat Oct  6 15:16:20 2018
 @author: Zhijie
 """
 
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 17 19:02:16 2018
-
-@author: Zhijie
-"""
-
 import networkx as nx
 import matplotlib.pyplot as plt
 import copy
